@@ -1,0 +1,1 @@
+{"schema_version": "0.02", "scores": [{"name": "Accuracy", "value": 0.8809997788099978}, {"name": "F1 score", "value": 0.21114369501466276}, {"name": "Precision", "value": 0.44720496894409939}, {"name": "Recall", "value": 0.13819577735124761}]}
